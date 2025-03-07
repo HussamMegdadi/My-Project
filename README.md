@@ -1,2 +1,2 @@
 # My-Project
-Practice Project
+For Practice
